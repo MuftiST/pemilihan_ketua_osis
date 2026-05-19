@@ -60,7 +60,3 @@ Gunakan Properties Window untuk update cepat pada label dan `PictureBox`.
 Jika data paslon diambil dari database, pastikan query diarahkan ke tabel/record khusus Putaran 2.
 Lakukan backup database sebelum menjalankan query `UPDATE`.
 ---
-🛠️ Teknologi
-IDE: Visual Studio 2019
-Bahasa: C# (.NET / Windows Forms)
-Database: SQL (sesuaikan dengan DBMS yang digunakan)
