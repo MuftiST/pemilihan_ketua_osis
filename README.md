@@ -1,15 +1,6 @@
 🗳️ Panduan Migrasi ke Putaran 2 — Aplikasi Pemilihan
 Dokumentasi langkah-langkah untuk mengonfigurasi aplikasi pemilihan agar siap digunakan pada Putaran 2.
 ---
-📋 Daftar Langkah
-No	Langkah	Status
-01	Reset Status Pemilih di Database	Wajib
-02	Buka Project di Visual Studio 2019	Wajib
-03	Akses Form Login	Wajib
-04	Modifikasi Event Tombol Login	Wajib
-05	Update Data Paslon Baru	Wajib
-06	Build & Run Project	Wajib
----
 01 — Reset Status Pemilih
 > ⚠️ **Wajib dilakukan sebelum Putaran 2 dimulai.** Pastikan semua pemilih di database direset agar status kembali menjadi `'Belum'`.
 Jalankan query berikut di database aplikasi:
